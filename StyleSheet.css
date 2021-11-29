@@ -75,13 +75,13 @@ text-decoration: none;
  color:#F0F8FF;
 }
 .container{
-width: 300px;
+width: 150px;
   border: 15px solid black;
   padding: 50px;
   margin: 20px;
     padding: 1.25%;
     float: left;
-    background-color: crimson;
+    background-color: DarkRed;
     height: 250px;
     max-width: 25%;
     box-sizing: border-box;
