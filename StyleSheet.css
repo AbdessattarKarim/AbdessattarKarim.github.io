@@ -1,6 +1,6 @@
 body
 {
-background-color:SlateBlue;
+background-color:#483D8B;
 color:#F0F8FF;
 text-align: left;
 }
@@ -30,11 +30,11 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color:SlateBlue;
+background-color:#483D8B;
 }
 
 .header {
-background-color:SlateBlue;
+background-color:#483D8B;
 text-align: center;
 padding: 20px;
   
@@ -45,7 +45,7 @@ float: left;
 
 .topnav {
   overflow: hidden;
-  background-color:SlateBlue;
+  background-color:#483D8B;
 }
 
 .topnav a {
@@ -58,7 +58,7 @@ text-decoration: none;
 }
 
 .topnav a:hover {
- background-color:SlateBlue;
+ background-color:#483D8B;
  color:#F0F8FF;
 }
 
