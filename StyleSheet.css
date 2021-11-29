@@ -1,7 +1,7 @@
 body
 {
 background-color:red;
-color:White;
+color:red;
 text-align: left;
 }
 
@@ -11,10 +11,54 @@ border-radius: 20%
 
 ul
 {
-
 list-style-type:none;
 display: block;
 margin: 0;
 padding:0;
 width: 80px;
 }
+
+li b
+{
+	display:block;
+	color: red;
+	padding: 8px 16px;
+}
+
+ul1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:red;
+}
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+  
+}
+li {
+ float: left;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: red
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: red;
+  color: red;
+}
+
