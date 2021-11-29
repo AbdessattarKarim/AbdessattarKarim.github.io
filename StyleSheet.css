@@ -4,7 +4,11 @@ background-color:#483D8B;
 color:#F0F8FF;
 text-align: left;
 }
-
+mark {
+    background-color:crimson;
+    color:white;
+    box-shadow:rgba(0,0,0) -10px  15px;
+}
 img{
 border-radius: 20%
 }
