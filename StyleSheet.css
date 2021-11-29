@@ -1,6 +1,6 @@
 body
 {
-background-color:slateblue;
+background-color:SlateBlue;
 color:red;
 text-align: left;
 }
@@ -30,11 +30,11 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color:slateblue;
+background-color:SlateBlue;
 }
 
 .header {
-background-color: slateblue;
+background-color:SlateBlue;
 text-align: center;
 padding: 20px;
   
@@ -45,7 +45,7 @@ float: left;
 
 .topnav {
   overflow: hidden;
-  background-color: slateblue;
+  background-color:SlateBlue;
 }
 
 .topnav a {
@@ -58,7 +58,7 @@ text-decoration: none;
 }
 
 .topnav a:hover {
- background-color: slateblue;
+ background-color:SlateBlue;
  color: red;
 }
 
