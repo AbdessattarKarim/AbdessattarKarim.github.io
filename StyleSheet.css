@@ -74,7 +74,9 @@ text-decoration: none;
  background-color:#483D8B;
  color:#F0F8FF;
 }
-.e1{
-display: inline-block;
-box-sizing: border-box;
+.container{
+width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
