@@ -1,6 +1,6 @@
 body
 {
-background-color:red;
+background-color:#483D8B;
 color:#F0F8FF;
 text-align: left;
 }
@@ -79,4 +79,10 @@ width: 300px;
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
+    padding: 1.25%;
+    float: left;
+    background-color: pink;
+    height: 500px;
+    max-width: 25%;
+    box-sizing: border-box;
 }
